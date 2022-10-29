@@ -6,7 +6,7 @@ on:
       - master
 
 jobs:
-  install:
+  test:
     runs-on: ubuntu-latest
 
     steps:
